@@ -1,0 +1,746 @@
+{
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "PATTERN": [
+        "PATTERN",
+        "ThTta",
+        "module",
+        2
+    ],
+    "CC": [
+        "CC",
+        "Ykn8I",
+        "module",
+        3
+    ],
+    "TESTBED": [
+        "TESTBED",
+        "TAUdR",
+        "module",
+        4
+    ],
+    "CMPR42X1": [
+        "CMPR42X1",
+        "f8nqa",
+        "module",
+        5
+    ],
+    "CMPR42X2": [
+        "CMPR42X2",
+        "A5hUU",
+        "module",
+        102
+    ],
+    "AFCSHCINX2": [
+        "AFCSHCINX2",
+        "vCTR7",
+        "module",
+        6
+    ],
+    "AFCSHCONX2": [
+        "AFCSHCONX2",
+        "yrsHn",
+        "module",
+        103
+    ],
+    "XOR3X2": [
+        "XOR3X2",
+        "wxYax",
+        "module",
+        7
+    ],
+    "XOR3X4": [
+        "XOR3X4",
+        "heLq3",
+        "module",
+        8
+    ],
+    "ADDFHX1": [
+        "ADDFHX1",
+        "TyC4S",
+        "module",
+        9
+    ],
+    "ADDFHX2": [
+        "ADDFHX2",
+        "mp94G",
+        "module",
+        10
+    ],
+    "ADDFHX4": [
+        "ADDFHX4",
+        "AjPZh",
+        "module",
+        11
+    ],
+    "ADDFX1": [
+        "ADDFX1",
+        "N0EII",
+        "module",
+        12
+    ],
+    "ADDFX2": [
+        "ADDFX2",
+        "jfLNU",
+        "module",
+        13
+    ],
+    "ADDFXL": [
+        "ADDFXL",
+        "D1wVr",
+        "module",
+        14
+    ],
+    "ADDHX1": [
+        "ADDHX1",
+        "LWuby",
+        "module",
+        104
+    ],
+    "ADDHXL": [
+        "ADDHXL",
+        "xAVMd",
+        "module",
+        16
+    ],
+    "AND2X1": [
+        "AND2X1",
+        "Gq2yN",
+        "module",
+        17
+    ],
+    "AND2X2": [
+        "AND2X2",
+        "deaHL",
+        "module",
+        18
+    ],
+    "AND2X4": [
+        "AND2X4",
+        "ax7my",
+        "module",
+        19
+    ],
+    "AND2XL": [
+        "AND2XL",
+        "NGf3K",
+        "module",
+        20
+    ],
+    "AND4X2": [
+        "AND4X2",
+        "QrqDV",
+        "module",
+        21
+    ],
+    "AOI211X1": [
+        "AOI211X1",
+        "uwCBB",
+        "module",
+        105
+    ],
+    "AOI211X2": [
+        "AOI211X2",
+        "iF13i",
+        "module",
+        106
+    ],
+    "AOI211X4": [
+        "AOI211X4",
+        "QameL",
+        "module",
+        107
+    ],
+    "AOI21X1": [
+        "AOI21X1",
+        "MABjN",
+        "module",
+        22
+    ],
+    "AOI21X2": [
+        "AOI21X2",
+        "KAFb1",
+        "module",
+        23
+    ],
+    "AOI21X4": [
+        "AOI21X4",
+        "Ja9uD",
+        "module",
+        24
+    ],
+    "AOI21XL": [
+        "AOI21XL",
+        "t8sfL",
+        "module",
+        108
+    ],
+    "AOI22X1": [
+        "AOI22X1",
+        "hvhdv",
+        "module",
+        25
+    ],
+    "AOI22X2": [
+        "AOI22X2",
+        "LAEwk",
+        "module",
+        26
+    ],
+    "AOI22X4": [
+        "AOI22X4",
+        "NSGmU",
+        "module",
+        27
+    ],
+    "AOI22XL": [
+        "AOI22XL",
+        "Kx8dR",
+        "module",
+        28
+    ],
+    "AOI2BB1X1": [
+        "AOI2BB1X1",
+        "NR9sW",
+        "module",
+        29
+    ],
+    "AOI2BB1X2": [
+        "AOI2BB1X2",
+        "RvscN",
+        "module",
+        30
+    ],
+    "AOI2BB1X4": [
+        "AOI2BB1X4",
+        "CuT6a",
+        "module",
+        31
+    ],
+    "AOI2BB2X1": [
+        "AOI2BB2X1",
+        "nbAS3",
+        "module",
+        32
+    ],
+    "AOI2BB2X2": [
+        "AOI2BB2X2",
+        "EUnPi",
+        "module",
+        33
+    ],
+    "AOI2BB2X4": [
+        "AOI2BB2X4",
+        "bJwC8",
+        "module",
+        34
+    ],
+    "AOI2BB2XL": [
+        "AOI2BB2XL",
+        "m7gfL",
+        "module",
+        109
+    ],
+    "AOI31X1": [
+        "AOI31X1",
+        "ywNeR",
+        "module",
+        110
+    ],
+    "AOI31X4": [
+        "AOI31X4",
+        "vKWsA",
+        "module",
+        111
+    ],
+    "BUFX12": [
+        "BUFX12",
+        "tcZfu",
+        "module",
+        35
+    ],
+    "BUFX1": [
+        "BUFX1",
+        "SyM3Y",
+        "module",
+        37
+    ],
+    "BUFX20": [
+        "BUFX20",
+        "Wx7yV",
+        "module",
+        112
+    ],
+    "BUFX2": [
+        "BUFX2",
+        "rBTwr",
+        "module",
+        113
+    ],
+    "BUFX4": [
+        "BUFX4",
+        "sj6ju",
+        "module",
+        38
+    ],
+    "BUFX8": [
+        "BUFX8",
+        "sDJqB",
+        "module",
+        39
+    ],
+    "CLKINVX2": [
+        "CLKINVX2",
+        "CFVW8",
+        "module",
+        40
+    ],
+    "INVX1": [
+        "INVX1",
+        "wDCMR",
+        "module",
+        41
+    ],
+    "INVX2": [
+        "INVX2",
+        "uw12y",
+        "module",
+        42
+    ],
+    "INVX3": [
+        "INVX3",
+        "wByU5",
+        "module",
+        43
+    ],
+    "INVX4": [
+        "INVX4",
+        "ffcHk",
+        "module",
+        44
+    ],
+    "INVX8": [
+        "INVX8",
+        "CHUp9",
+        "module",
+        45
+    ],
+    "INVXL": [
+        "INVXL",
+        "FsUsG",
+        "module",
+        46
+    ],
+    "MX2X1": [
+        "MX2X1",
+        "w073b",
+        "module",
+        47
+    ],
+    "MX2X4": [
+        "MX2X4",
+        "jLss4",
+        "module",
+        48
+    ],
+    "MX2XL": [
+        "MX2XL",
+        "Vacbq",
+        "module",
+        114
+    ],
+    "MXI2X1": [
+        "MXI2X1",
+        "vAks1",
+        "module",
+        49
+    ],
+    "MXI2X2": [
+        "MXI2X2",
+        "Ae4MD",
+        "module",
+        50
+    ],
+    "MXI2X4": [
+        "MXI2X4",
+        "JRaiT",
+        "module",
+        51
+    ],
+    "MXI2XL": [
+        "MXI2XL",
+        "Jacfd",
+        "module",
+        52
+    ],
+    "NAND2X1": [
+        "NAND2X1",
+        "zeaQT",
+        "module",
+        53
+    ],
+    "NAND2X2": [
+        "NAND2X2",
+        "AqYs7",
+        "module",
+        54
+    ],
+    "NAND2X4": [
+        "NAND2X4",
+        "Nt0Qe",
+        "module",
+        55
+    ],
+    "NAND2XL": [
+        "NAND2XL",
+        "C4bJV",
+        "module",
+        56
+    ],
+    "NAND2BX1": [
+        "NAND2BX1",
+        "ktn1k",
+        "module",
+        57
+    ],
+    "NAND2BX2": [
+        "NAND2BX2",
+        "EG794",
+        "module",
+        58
+    ],
+    "NAND2BX4": [
+        "NAND2BX4",
+        "cAESL",
+        "module",
+        59
+    ],
+    "NAND3X1": [
+        "NAND3X1",
+        "n5kPb",
+        "module",
+        61
+    ],
+    "NAND3X2": [
+        "NAND3X2",
+        "f14WG",
+        "module",
+        62
+    ],
+    "NAND3X4": [
+        "NAND3X4",
+        "fbbg6",
+        "module",
+        63
+    ],
+    "NAND3XL": [
+        "NAND3XL",
+        "zJkFY",
+        "module",
+        64
+    ],
+    "NAND3BX2": [
+        "NAND3BX2",
+        "Dn8AH",
+        "module",
+        115
+    ],
+    "NAND4X1": [
+        "NAND4X1",
+        "Yz42M",
+        "module",
+        66
+    ],
+    "NAND4X2": [
+        "NAND4X2",
+        "xj27R",
+        "module",
+        67
+    ],
+    "NAND4BX1": [
+        "NAND4BX1",
+        "JrS2A",
+        "module",
+        70
+    ],
+    "NAND4BX2": [
+        "NAND4BX2",
+        "CpHJ4",
+        "module",
+        116
+    ],
+    "NAND4BBX4": [
+        "NAND4BBX4",
+        "n4EuM",
+        "module",
+        117
+    ],
+    "NOR2X1": [
+        "NOR2X1",
+        "esUc7",
+        "module",
+        72
+    ],
+    "NOR2X2": [
+        "NOR2X2",
+        "YyBFZ",
+        "module",
+        73
+    ],
+    "NOR2X4": [
+        "NOR2X4",
+        "D1gAY",
+        "module",
+        74
+    ],
+    "NOR2XL": [
+        "NOR2XL",
+        "UiF6Q",
+        "module",
+        75
+    ],
+    "NOR2BX1": [
+        "NOR2BX1",
+        "uZtZP",
+        "module",
+        76
+    ],
+    "NOR3X1": [
+        "NOR3X1",
+        "DY4ye",
+        "module",
+        77
+    ],
+    "NOR3X4": [
+        "NOR3X4",
+        "Mrz3I",
+        "module",
+        118
+    ],
+    "NOR4X1": [
+        "NOR4X1",
+        "Q8qRn",
+        "module",
+        119
+    ],
+    "OAI211X1": [
+        "OAI211X1",
+        "pgQUZ",
+        "module",
+        78
+    ],
+    "OAI211X2": [
+        "OAI211X2",
+        "csV4k",
+        "module",
+        120
+    ],
+    "OAI211XL": [
+        "OAI211XL",
+        "i85VS",
+        "module",
+        121
+    ],
+    "OAI21X1": [
+        "OAI21X1",
+        "EivVh",
+        "module",
+        79
+    ],
+    "OAI21X2": [
+        "OAI21X2",
+        "BhWQj",
+        "module",
+        80
+    ],
+    "OAI21X4": [
+        "OAI21X4",
+        "qYbKc",
+        "module",
+        81
+    ],
+    "OAI21XL": [
+        "OAI21XL",
+        "nqk2t",
+        "module",
+        82
+    ],
+    "OAI22X1": [
+        "OAI22X1",
+        "B3x5e",
+        "module",
+        83
+    ],
+    "OAI22X2": [
+        "OAI22X2",
+        "BwmHJ",
+        "module",
+        122
+    ],
+    "OAI22X4": [
+        "OAI22X4",
+        "tHQ67",
+        "module",
+        123
+    ],
+    "OAI2BB1X1": [
+        "OAI2BB1X1",
+        "WKptr",
+        "module",
+        84
+    ],
+    "OAI2BB1X2": [
+        "OAI2BB1X2",
+        "gN3Rq",
+        "module",
+        85
+    ],
+    "OAI2BB1X4": [
+        "OAI2BB1X4",
+        "siijQ",
+        "module",
+        86
+    ],
+    "OAI2BB1XL": [
+        "OAI2BB1XL",
+        "Hevxk",
+        "module",
+        124
+    ],
+    "OAI2BB2X1": [
+        "OAI2BB2X1",
+        "ugDgF",
+        "module",
+        125
+    ],
+    "OAI2BB2X2": [
+        "OAI2BB2X2",
+        "DmiMJ",
+        "module",
+        126
+    ],
+    "OAI31X1": [
+        "OAI31X1",
+        "ZGPmN",
+        "module",
+        127
+    ],
+    "OAI31X2": [
+        "OAI31X2",
+        "PmCIA",
+        "module",
+        128
+    ],
+    "OAI31XL": [
+        "OAI31XL",
+        "jIuBP",
+        "module",
+        129
+    ],
+    "OR2X1": [
+        "OR2X1",
+        "YRkbh",
+        "module",
+        87
+    ],
+    "OR2X2": [
+        "OR2X2",
+        "AMGuT",
+        "module",
+        88
+    ],
+    "OR2X4": [
+        "OR2X4",
+        "EeCu0",
+        "module",
+        89
+    ],
+    "OR2XL": [
+        "OR2XL",
+        "Ljmab",
+        "module",
+        90
+    ],
+    "OR3X2": [
+        "OR3X2",
+        "denPH",
+        "module",
+        130
+    ],
+    "OR3X4": [
+        "OR3X4",
+        "AkPz9",
+        "module",
+        131
+    ],
+    "OR4X2": [
+        "OR4X2",
+        "We06i",
+        "module",
+        132
+    ],
+    "XNOR2X1": [
+        "XNOR2X1",
+        "nGFzt",
+        "module",
+        92
+    ],
+    "XNOR2X2": [
+        "XNOR2X2",
+        "mwxvM",
+        "module",
+        93
+    ],
+    "XNOR2X4": [
+        "XNOR2X4",
+        "NkYVP",
+        "module",
+        94
+    ],
+    "XNOR2XL": [
+        "XNOR2XL",
+        "rpKsx",
+        "module",
+        95
+    ],
+    "XOR2X1": [
+        "XOR2X1",
+        "Whn5t",
+        "module",
+        96
+    ],
+    "XOR2X2": [
+        "XOR2X2",
+        "yvaix",
+        "module",
+        97
+    ],
+    "XOR2X4": [
+        "XOR2X4",
+        "LKerf",
+        "module",
+        98
+    ],
+    "XOR2XL": [
+        "XOR2XL",
+        "QZEIi",
+        "module",
+        99
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        100
+    ],
+    "udp_mux2": [
+        "udp_mux2",
+        "U7Vwg",
+        "udp",
+        101
+    ]
+}

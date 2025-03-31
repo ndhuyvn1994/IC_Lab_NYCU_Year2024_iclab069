@@ -1,0 +1,17 @@
+ 
+****************************************
+check_design summary:
+Version:     T-2022.03
+Date:        Sat May 11 23:45:35 2024
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Cells                                                               3
+    Cells do not drive (LINT-1)                                     3
+--------------------------------------------------------------------------------
+
+Warning: In design 'CC', cell 'B_5' does not drive any nets. (LINT-1)
+Warning: In design 'CC', cell 'C110' does not drive any nets. (LINT-1)
+Warning: In design 'CC', cell 'B_7' does not drive any nets. (LINT-1)
+1
